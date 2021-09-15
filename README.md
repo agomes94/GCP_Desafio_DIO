@@ -1,5 +1,10 @@
 # Desafio GCP Dataproc
-### Fonte: https://github.com/marcelomarques05/dio-desafio-dataproc
+
+Desafio Desafio GCP Dataproc realizado no bootcamp Cognizant Cloud Data Engineer.
+
+### Lab: Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc
+#### Professor: Marcelo Marques
+#### Fonte: https://github.com/marcelomarques05/dio-desafio-dataproc
 
 # Digital Innovation One
 
